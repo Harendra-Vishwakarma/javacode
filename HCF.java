@@ -3,6 +3,7 @@ public class HCF {
 
 	public static void main(String[] args) {
 		Scanner ob=new Scanner(System.in);
+		System.out.print("HCF Program");
 		int n1=ob.nextInt();
 		int n2=ob.nextInt();
 		int re=0;
